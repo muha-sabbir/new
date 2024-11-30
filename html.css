@@ -1,0 +1,444 @@
+.fast-row {
+  background-image: url(./handyman-construction-site-process-drilling-wall-with-perforator.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-bottom: 220px;
+  padding-top: 200px;
+  background-position: center;
+}
+.fastSecond {
+  max-width: 1211px;
+  margin: auto;
+  padding: 2px 42px;
+}
+.row {
+  font-size: 80px;
+  font-weight: 900;
+  list-style: 1.1;
+  color: #f7ac19;
+}
+.font {
+  font-size: 22px;
+  color: #ffffff;
+}
+.justo {
+  text-decoration: none;
+  color: #ffffff;
+}
+.row-contenr {
+  display: flex;
+  gap: 20px;
+  text-align: center;
+}
+.betari {
+  background-color: black;
+  color: #ffffff;
+  padding: 2px 80px;
+}
+.foter {
+  font-size: 58px;
+  font-weight: 900;
+  line-height: 0.5;
+}
+.head {
+  color: #ffffff;
+  background-color: #f7ac19;
+  padding: 2px 70px;
+}
+.full {
+  font-size: 20px;
+  color: #ffffff;
+}
+.pero {
+  text-decoration: none;
+  font-size: 22px;
+  font-weight: 800;
+  background-color: #f7ac19;
+  padding: 12px 32px;
+  color: #ffffff;
+}
+.pero:hover {
+  background-color: #bc9649;
+}
+.per {
+  text-decoration: none;
+  font-size: 22px;
+  font-weight: 800;
+  background-color: #bc9649;
+  padding: 12px 32px;
+  color: black;
+}
+.per:hover {
+  background-color: #f7ac19;
+}
+.had {
+  background-color: rgb(96, 90, 90);
+  padding-bottom: 20px;
+}
+.ranin {
+  max-width: 650px;
+}
+.foter-contenr {
+  display: flex;
+
+  justify-content: center;
+  background-color: #f2f2f2;
+  padding-bottom: 30px;
+  padding-top: 50px;
+  & > div {
+    width: 49%;
+  }
+}
+section {
+  max-width: 1260px;
+  margin: 0 auto;
+}
+img {
+  width: 100% !important;
+  /* height: 100% !important; */
+}
+.Home {
+  text-align: center;
+  color: #111111;
+  background-color: #ffffff;
+  padding: 40px;
+}
+.we {
+  font-size: 50px;
+  font-weight: 700;
+  text-align: center;
+}
+.for {
+  text-align: center;
+  font-size: 22px;
+  line-height: 1.5;
+}
+.tro {
+  text-decoration: none;
+  color: #111111;
+  font-weight: 900;
+}
+.form {
+  font-size: 22px;
+  text-align: center;
+}
+.us {
+  text-decoration: none;
+  color: #ffffff;
+  font-size: 25px;
+  background-color: #f7ac19;
+  padding: 15px 30px;
+}
+.us:hover {
+  background-color: #111111;
+}
+.motor {
+  max-width: 600px;
+  height: 300px;
+}
+.forml {
+  font-size: 22px;
+  margin-bottom: 30px;
+}
+.trom {
+  text-decoration: none;
+  color: #111111;
+  font-weight: 900;
+}
+.usr {
+  text-decoration: none;
+  color: #ffffff;
+  font-size: 25px;
+  background-color: #f7ac19;
+  padding: 15px 40px;
+}
+.usr:hover {
+  text-decoration: none;
+  color: #ffffff;
+  font-size: 25px;
+  background-color: #000000;
+  padding: 15px 40px;
+}
+.sit {
+  font-size: 30px;
+  font-weight: 900;
+}
+.ullamco {
+  font-size: 22px;
+  line-height: 1.4;
+  margin-bottom: 50px;
+}
+.tebil {
+  background-color: #f2f2f2;
+  padding: 25px;
+  padding-bottom: 59px;
+  margin-top: 20px;
+}
+.enim {
+  text-decoration: none;
+  color: #ffffff;
+  font-size: 25px;
+  background-color: #000000;
+  padding: 15px 40px;
+}
+.enim:hover {
+  text-decoration: none;
+  color: #ffffff;
+  font-size: 25px;
+  background-color: #f7ac19;
+  padding: 15px 40px;
+}
+.brod {
+  max-width: 600px;
+  height: 300px;
+}
+.hardi {
+  background-color: #f7ac19;
+  padding: 20px;
+  color: #ffffff;
+  padding-bottom: 100px;
+
+  margin-bottom: 20px;
+}
+.for-row {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  margin-top: 70px;
+}
+.sitr {
+  font-size: 39px;
+}
+.parkin {
+  font-size: 22px;
+  margin-bottom: 50px;
+  line-height: 1.4;
+}
+/*-------------------
+      fave-row
+ -------------------- */
+.haking {
+  font-size: 22px;
+  text-align: center;
+  color: #524d4d;
+}
+.tomaro {
+  text-decoration: none;
+  font-weight: 900;
+  color: #000000;
+}
+.king {
+  text-align: center;
+  font-size: 45px;
+  font-weight: 900;
+}
+.five-contenar {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+}
+img {
+  object-fit: cover;
+  object-position: top;
+}
+
+.row-to {
+  display: flex;
+  gap: 10px;
+  position: relative;
+  text-align: center;
+  margin-top: 10px;
+  justify-content: center;
+}
+.etar {
+  position: relative;
+}
+.pati {
+  max-width: 300px;
+}
+.JEFFREY {
+  text-align: center;
+  position: absolute;
+  bottom: 3px;
+  padding: 2px 62px 5px 30px;
+  color: #ffffff;
+  background-color: #000000;
+}
+.JEFFRE {
+  text-align: center;
+  position: absolute;
+  bottom: 3px;
+  padding: 2px 30px 5px 30px;
+  color: #ffffff;
+  background-color: #000000;
+}
+.JEFFR {
+  text-align: center;
+  position: absolute;
+  bottom: 3px;
+  padding: 2px 73px 10px 30px;
+  color: #ffffff;
+  background-color: #000000;
+}
+.barja {
+  position: absolute;
+  bottom: 3px;
+  padding: 1px 88px 10px 30px;
+  color: #ffffff;
+  background-color: #000000;
+}
+.JY {
+  position: absolute;
+  bottom: 3px;
+  padding: 0 93px 10px 30px;
+  color: #ffffff;
+  background-color: #000000;
+}
+.Jop {
+  position: absolute;
+  bottom: 3px;
+  padding: 0 110px 10px 30px;
+  color: #ffffff;
+  background-color: #000000;
+}
+.Partner {
+  position: absolute;
+  bottom: 3px;
+  padding: 0 50px 10px 30px;
+  color: #ffffff;
+  background-color: #000000;
+}
+.OUR {
+  font-size: 22px;
+  line-height: 0;
+}
+.Free {
+  font-size: 34px;
+  font-weight: 900;
+}
+.Ask {
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 0;
+}
+.mans {
+  border-top: 0;
+  border-left: 0;
+  border-right: 0;
+  border-bottom: 0;
+
+  background-color: #f2f2f2;
+  padding: 20px 20px 20px 5px;
+  max-width: 450px;
+}
+.mansr {
+  border-top: 0;
+  border-left: 0;
+  border-right: 0;
+  border-bottom: 0;
+  background-color: #f2f2f2;
+  padding: 20px 20px 20px 5px;
+
+  margin-bottom: 30px;
+}
+.oppo {
+  text-decoration: none;
+  font-size: 22px;
+  font-weight: 900;
+  background-color: #f7ac19;
+  padding: 10px 200px;
+  color: #ffffff;
+}
+.oppo:hover {
+  background-color: #000000;
+}
+.that {
+  font-size: 20px;
+  line-height: 1.4;
+}
+.ofer {
+  font-size: 30px;
+  font-weight: 900;
+}
+.obligations {
+  display: flex;
+  gap: 20px;
+  background-color: #f2f2f2;
+  padding-bottom: 50px;
+  justify-content: center;
+}
+
+.isto {
+  width: 200px;
+  height: 200px;
+  border-radius: 200px;
+  max-width: 200px;
+  max-height: 100%;
+  object-fit: cover;
+}
+.hat {
+  margin-top: 50px;
+  background-color: #ffffff;
+  padding: 20px;
+  width: 48%;
+}
+.welcome {
+  font-size: 20px;
+  line-height: 1.6;
+  background-color: #f2f2f2;
+  padding: 20px;
+}
+.Sample {
+  font-size: 20px;
+  background-color: #000000;
+  padding: 20px;
+  color: #ffffff;
+  text-align: center;
+}
+/* last-row */
+.last-row {
+  display: flex;
+  gap: 4px;
+  align-items: center;
+  justify-content: center;
+  background-color: #333333;
+  padding: 20px;
+  font-size: 19px;
+}
+.with {
+  color: #d0e0ee;
+}
+.with:hover {
+  text-decoration: none;
+  color: #969696;
+}
+.created {
+  color: #ffffff;
+}
+@media (max-width: 1023px) {
+  .for-row,
+  .foter-contenr {
+    flex-direction: column;
+  }
+  .foter-contenr > div {
+    width: 100%;
+  }
+  .five-contenar,
+  .row-to {
+    flex-wrap: wrap;
+  }
+  .etar {
+    max-width: 245px;
+  }
+  .row-to > div {
+    max-width: 245px;
+  }
+  .obligations {
+    flex-direction: column;
+  }
+  .hat {
+    width: 100%;
+  }
+}
+@media (max-width: 767px) {
+}
